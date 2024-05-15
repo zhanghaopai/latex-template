@@ -31,4 +31,11 @@ W.~Zhang, Q.~Yang, and Y.~Geng, ``A survey of anomaly detection methods in
   networks,'' in \emph{2009 International Symposium on Computer Network and
   Multimedia Technology}, 2009, pp. 1--3.
 
+\bibitem{10.1145/1541880.1541882}
+\BIBentryALTinterwordspacing
+V.~Chandola, A.~Banerjee, and V.~Kumar, ``Anomaly detection: A survey,''
+  \emph{ACM Comput. Surv.}, vol.~41, no.~3, jul 2009. [Online]. Available:
+  \url{https://doi.org/10.1145/1541880.1541882}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
